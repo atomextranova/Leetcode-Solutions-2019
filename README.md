@@ -5,7 +5,7 @@ Most solutions will contain more than one solutions, and may contain valuable on
 ## Solutions based on categories
 ### Array: 
 [724. Find Pivot Index](Array/PivotIndex.java)\
-[747. Largest Number At Least Twice of Others](Array/LargestNumberTwice.java)
+[747. Largest Number At Least Twice of Others](Array/LargestNumberTwice.java)\
 [66. Plus One](Array/PlusOne.java)
 
 ### String:
