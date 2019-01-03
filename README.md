@@ -4,7 +4,7 @@ Most solutions will contain more than one solutions, and may contain valuable on
 
 ## Array: 
 [724. Find Pivot Index](Array/PivotIndex.java)\
-[747. Largest Number At Least Twice of Others](Array/LargestNumberIndex.java)
+[747. Largest Number At Least Twice of Others](Array/LargestNumberTwice.java)
 
 ## String:
 [6. ZigZag Conversion](String/ZigZagString.java)\
