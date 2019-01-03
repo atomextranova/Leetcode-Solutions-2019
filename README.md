@@ -6,10 +6,10 @@ Categories:
 
 Array: 
 
-[724. Find Pivot Index](Array/PivotIndex.java)\
+[724. Find Pivot Index](Array/PivotIndex.java)
 
 String:
 
 [13. Roman to Integer](String/RomanToInt.java)\
 [344. Reverse String](String/RomanToInt.java)\
-[6. ZigZag Conversion](String/ZigZagString.java)\
+[6. ZigZag Conversion](String/ZigZagString.java)
