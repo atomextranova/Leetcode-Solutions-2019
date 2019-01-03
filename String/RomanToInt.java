@@ -8,7 +8,6 @@ public class RomanToInt {
         final int LAST_INDEX = LENGTH - 1;
         // Avoid using charAt() every time, more efficient
         char[] stringArray = s.toCharArray();
-        // check for Null and
         for (int i = 0; i < LENGTH; i++) {
             switch (stringArray[i]) {
                 // One more braces to define local variables nextChar in different cases
@@ -70,7 +69,9 @@ public class RomanToInt {
         return sum;
     }
 
-    // makeittrue posted @ https://leetcode.com/problems/roman-to-integer/discuss/6529/My-solution-for-this-question-but-I-don't-know-is-there-any-easier-way
+    // makeittrue posted @
+    // https://leetcode.com/problems/roman-to-integer/discuss/6529/My-solution-for-this-question-but-I-don't-know-is-there-any-easier-way
+    // Accessed 01/02/2019
     public static int romanToIntOptimal(String s) {
         int res = 0;
         for (int i = s.length() - 1; i >= 0; i--) {

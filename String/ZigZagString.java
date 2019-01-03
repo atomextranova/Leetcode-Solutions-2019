@@ -32,17 +32,9 @@ public class ZigZagString {
 //            return "";
 //        }
 //    }
-    /*
-    We can use min(numRows,len(s))\text{min}( \text{numRows}, \text{len}(s))
-    min(numRows,len(s))
-    lists to represent the non-empty rows of the Zig-Zag Pattern.
-    Iterate through sss from left to right, appending each character to the
-    appropriate row.
-    The appropriate row can be tracked using two variables: the current row
-    and the current direction.
-    The current direction changes only when we moved up to the topmost row or
-     moved down to the bottommost row.
-     */
+
+    // Leetcode @ https://leetcode.com/problems/zigzag-conversion/solution/
+    // Accessed 01/02/2019
     public String convert(String s, int numRows) {
 
         if (numRows == 1) {
@@ -72,6 +64,8 @@ public class ZigZagString {
         return ret.toString();
     }
 
+    // Leetcode @ https://leetcode.com/problems/zigzag-conversion/solution/
+    // Accessed 01/02/2019
     public String convert2(String s, int numRows) {
         if (numRows == 1) {
             return s;
@@ -92,6 +86,9 @@ public class ZigZagString {
         return ret.toString();
     }
 
+    // dylan_yu's posted @
+    // https://leetcode.com/problems/zigzag-conversion/discuss/3403/Easy-to-understand-Java-solution
+    // Accessed 01/02/2019
     public String convert3(String s, int nRows) {
         char[] c = s.toCharArray();
         int len = c.length;
