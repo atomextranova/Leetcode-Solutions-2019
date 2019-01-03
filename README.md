@@ -3,7 +3,8 @@ Solutions for Leetcode problems in Java. This project is still under development
 Most solutions will contain more than one solutions, and may contain valuable ones that are  collected from online discussions and with reference provided.
 
 ## Array: 
-[724. Find Pivot Index](Array/PivotIndex.java)
+[724. Find Pivot Index](Array/PivotIndex.java)\
+[747. Largest Number At Least Twice of Others](Array/LargestNumberIndex.java)
 
 ## String:
 [6. ZigZag Conversion](String/ZigZagString.java)\
