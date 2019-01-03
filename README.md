@@ -1,5 +1,6 @@
 # Leetcode-solution-Java
-Solutions for Leetcode problems in Java. This project is still under development and are expected to finish within one year to cover most famous leetcode problems.  Most solutions will contain more than one solutions, and may contain valuable ones that are  collected from online discussions and with reference provided.
+Solutions for Leetcode problems in Java. This project is still under development and are expected to finish within one year to cover most famous leetcode problems.  
+Most solutions will contain more than one solutions, and may contain valuable ones that are  collected from online discussions and with reference provided.
 
 
 Categories:
