@@ -1,8 +1,12 @@
-# Leetcode-solution-Java
-Solutions for Leetcode problems in Java. This project is still under development and are expected to finish within one year to cover most famous leetcode problems.  
+# Leetcode-Solution
+Solutions for Leetcode problems. This project is still under development and are expected to finish within one year to cover most famous leetcode problems.  
 Most solutions will contain more than one solutions and come with simple test cases. They may contain valuable solutions that are collected from online discussions. References, time and space complexity are provided in the comments.
 
-## Solutions based on categories
+## Solutions in C++
+### Array: 
+#### 2D Array
+
+## Solutions in Java
 ### Array: 
 #### 1D Array
 [66. Plus One](Array/PlusOne.java)\
